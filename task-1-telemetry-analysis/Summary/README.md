@@ -1,4 +1,5 @@
 📊 Task 1: Operational Telemetry Analysis (Tableau)
+
 **1. Business Context**
 
 Daikibo Industrials collected telemetry data from four factories (Tokyo, Osaka, Berlin, Shenzhen) to monitor machine health. Each machine sent a status update every 10 minutes during May 2021.
